@@ -6,11 +6,11 @@
 
 <div align="center">
   <h3>
-    <a href="https://your-demo-link.vercel.app">
+    <a href="https://minimal-blog-card-umber.vercel.app/">
       Demo
     </a>
     <span> | </span>
-    <a href="https://github.com/your-username/minimal-blog-card">
+    <a href="https://github.com/neethumathew315/MINIMAL-BLOG-CARD">
       Solution
     </a>
     <span> | </span>
